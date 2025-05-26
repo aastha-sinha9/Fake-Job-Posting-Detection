@@ -2,13 +2,13 @@
 
 This project aims to identify fake job postings using a machine learning model trained on textual data. It includes both a backend ML model and a deployed frontend interface for user interaction.
 
-##  Problem Statement
+#  Problem Statement
 
 Fake job postings have increased across online platforms, misleading job seekers and wasting time. This project attempts to classify job descriptions as **genuine** or **fake** using natural language processing and deep learning techniques.
 
 ---
 
-##  Features
+#  Features
 
 - Preprocessed job posting dataset
 - Word embedding using GloVe vectors
@@ -19,7 +19,7 @@ Fake job postings have increased across online platforms, misleading job seekers
 
 ---
 
-##  Machine Learning Workflow
+#  Machine Learning Workflow
 
 1. **Data Cleaning**
    - Removed nulls, unnecessary columns, and duplicate rows
@@ -39,7 +39,7 @@ Fake job postings have increased across online platforms, misleading job seekers
 
 ---
 
-## 🌐 Frontend Deployment
+#  Frontend Deployment
 
 The frontend was built using **Bolt AI** and deployed via **Netlify**.
 
@@ -49,17 +49,24 @@ You can enter a job description and get real-time predictions from the backend.
 
 ---
 
-## 📁 Project Structure
-Fake-Job-Posting-Detection/
-│
-├── Glove/ # Pre-trained word embeddings (not pushed to GitHub)
-├── frontend/ # Bolt AI frontend files (optional if linked externally)
-├── model/ # Model training and evaluation notebooks
-├── app.py # Backend script (Flask or Streamlit)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore
-Dataset
+##  Project Structure
+1. Fake-Job-Posting-Detection/
+   
+2. Glove/ # Pre-trained word embeddings (not pushed to GitHub)
+   
+3. frontend/ # Bolt AI frontend files (optional if linked externally)
+   
+4. model/ # Model training and evaluation notebooks
+   
+5. app.py # Backend script (Flask or Streamlit)
+   
+6. requirements.txt # Python dependencies
+   
+7. README.md # Project documentation
+   
+8. .gitignore
+   
+# Dataset
 Dataset used: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
 ~18,000 job postings
@@ -67,7 +74,7 @@ Dataset used: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposti
 Balanced for binary classification
 
 
----
+
 
 ##  Setup Instructions
 
