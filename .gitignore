@@ -33,3 +33,4 @@ Thumbs.db
 
 # Streamlit
 .streamlit/config.toml
+GloVe/glove.6B.100d.txt
