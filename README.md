@@ -93,6 +93,8 @@ Job Description:
 ```
 
 
-Author
-Aastha
+Author-
+
+Aastha Sinha
+
 Engineering Student at NSUT
