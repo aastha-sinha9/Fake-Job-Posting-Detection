@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# Model weights, datasets, and big files
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.xlsx
+*.zip
+
+# Streamlit
+.streamlit/config.toml
+
+GloVe/glove.6B.100d.txt
+fjd/
