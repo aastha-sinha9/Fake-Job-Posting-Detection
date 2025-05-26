@@ -1,0 +1,8 @@
+echo ".ipynb_checkpoints/
+__pycache__/
+env/
+*.pyc
+*.pkl
+*.h5
+.DS_Store
+" > .gitignore

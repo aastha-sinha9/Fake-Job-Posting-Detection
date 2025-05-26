@@ -1,0 +1,40 @@
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Large files (models, etc.)
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Environment files
+.env
+*.env
+
+# Output folders
+output/
+model_output/
+runs/
