@@ -34,7 +34,7 @@ Fake job postings have increased across online platforms, misleading job seekers
    - Accuracy, precision, recall as evaluation metrics
 
 4. **Deployment**
-   - Streamlit or Flask backend (as per your final setup)
+   - Streamlit
    - Frontend hosted on Netlify
 
 ---
